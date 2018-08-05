@@ -13,13 +13,12 @@
     **On which day(s) have more than 1% of requests resulted in errors?**
 
 ### Requirements to Run
-  -Python . 
-  -Vagrant . 
-  -VirtualBox . 
-  -Database/vagrant folder: https://github.com/udacity/fullstack-nanodegree-vm  
-    -_fork and clone_ . 
-  -Data for the database:   https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip . 
-    -will unzip into 'newsdata.sql' . 
+  Python . 
+  Vagrant . 
+  VirtualBox . 
+  Database/vagrant folder: https://github.com/udacity/fullstack-nanodegree-vm  (fork and clone) .  
+  Data for the database:   https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip . 
+
 
 ### Steps to Run
 1. Make sure Vagrant and VirtualBox are installed . 
