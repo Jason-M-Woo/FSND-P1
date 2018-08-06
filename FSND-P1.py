@@ -59,3 +59,5 @@ def findErrorDates():
         print(". {} - {}".format(date, item[1] * 100) + "%" + " error rate")
 
 findErrorDates()
+
+
